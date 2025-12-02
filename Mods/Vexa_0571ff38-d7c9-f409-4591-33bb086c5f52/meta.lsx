@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="8" revision="0" build="10"/>
+    <version major="4" minor="8" revision="0" build="500"/>
     <region id="Config">
         <node id="root">
             <children>
@@ -21,7 +21,7 @@
                             <attribute id="Name" type="LSString" value="Dragonborn Extra Tabs - Horns and Hair"/>
                             <attribute id="PublishHandle" type="uint64" value="4393926"/>
                             <attribute id="UUID" type="guid" value="a095fce4-a8c9-0e6c-1b17-5ee0dd04b21c"/>
-                            <attribute id="Version64" type="int64" value="36028797018963972"/>
+                            <attribute id="Version64" type="int64" value="36028797018963974"/>
                         </node>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="DGB_Slayer_Assets_fd3e90d4-1355-5fbb-b915-a4379ce42bce"/>
@@ -40,7 +40,7 @@
                     <attribute id="FileSize" type="uint64" value="144048741"/>
                     <attribute id="Folder" type="LSString" value="Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="37b96058984e75d6245aa0182223c669"/>
+                    <attribute id="MD5" type="LSString" value="c0a8f3412870277331306e0719fc6f77"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
                     <attribute id="Name" type="LSString" value="Vexa - Dark Urge Slayer Dragonborn CC"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
@@ -48,7 +48,7 @@
                     <attribute id="PublishHandle" type="uint64" value="4434681"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="0571ff38-d7c9-f409-4591-33bb086c5f52"/>
-                    <attribute id="Version64" type="int64" value="36028797018963982"/>
+                    <attribute id="Version64" type="int64" value="36028797018963983"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717549775"/>
