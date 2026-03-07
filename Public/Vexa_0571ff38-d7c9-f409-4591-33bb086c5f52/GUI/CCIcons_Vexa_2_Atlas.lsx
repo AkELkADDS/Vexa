@@ -1,100 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="7" revision="1" build="3"/>
+    <version major="4" minor="8" revision="0" build="500"/>
     <region id="IconUVList">
         <node id="root">
             <children>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FA"/>
-                    <attribute id="U1" type="float" value="0.00048828125"/>
-                    <attribute id="U2" type="float" value="0.12451172"/>
-                    <attribute id="V1" type="float" value="0.12548828"/>
-                    <attribute id="V2" type="float" value="0.24951172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FB"/>
-                    <attribute id="U1" type="float" value="0.12548828"/>
-                    <attribute id="U2" type="float" value="0.24951172"/>
-                    <attribute id="V1" type="float" value="0.12548828"/>
-                    <attribute id="V2" type="float" value="0.24951172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FC"/>
-                    <attribute id="U1" type="float" value="0.25048828"/>
-                    <attribute id="U2" type="float" value="0.37451172"/>
-                    <attribute id="V1" type="float" value="0.12548828"/>
-                    <attribute id="V2" type="float" value="0.24951172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FD"/>
-                    <attribute id="U1" type="float" value="0.37548828"/>
-                    <attribute id="U2" type="float" value="0.49951172"/>
-                    <attribute id="V1" type="float" value="0.12548828"/>
-                    <attribute id="V2" type="float" value="0.24951172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_FE"/>
-                    <attribute id="U1" type="float" value="0.50048828"/>
-                    <attribute id="U2" type="float" value="0.62451172"/>
-                    <attribute id="V1" type="float" value="0.12548828"/>
-                    <attribute id="V2" type="float" value="0.24951172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MA"/>
-                    <attribute id="U1" type="float" value="0.62548828"/>
-                    <attribute id="U2" type="float" value="0.74951172"/>
-                    <attribute id="V1" type="float" value="0.12548828"/>
-                    <attribute id="V2" type="float" value="0.24951172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MA_DMH"/>
-                    <attribute id="U1" type="float" value="0.75048828"/>
-                    <attribute id="U2" type="float" value="0.87451172"/>
-                    <attribute id="V1" type="float" value="0.12548828"/>
-                    <attribute id="V2" type="float" value="0.24951172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MC"/>
-                    <attribute id="U1" type="float" value="0.87548828"/>
-                    <attribute id="U2" type="float" value="0.99951172"/>
-                    <attribute id="V1" type="float" value="0.12548828"/>
-                    <attribute id="V2" type="float" value="0.24951172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MD"/>
-                    <attribute id="U1" type="float" value="0.00048828125"/>
-                    <attribute id="U2" type="float" value="0.12451172"/>
-                    <attribute id="V1" type="float" value="0.25048828"/>
-                    <attribute id="V2" type="float" value="0.37451172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_ME"/>
-                    <attribute id="U1" type="float" value="0.12548828"/>
-                    <attribute id="U2" type="float" value="0.24951172"/>
-                    <attribute id="V1" type="float" value="0.25048828"/>
-                    <attribute id="V2" type="float" value="0.37451172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MF"/>
-                    <attribute id="U1" type="float" value="0.25048828"/>
-                    <attribute id="U2" type="float" value="0.37451172"/>
-                    <attribute id="V1" type="float" value="0.25048828"/>
-                    <attribute id="V2" type="float" value="0.37451172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_MG"/>
-                    <attribute id="U1" type="float" value="0.37548828"/>
-                    <attribute id="U2" type="float" value="0.49951172"/>
-                    <attribute id="V1" type="float" value="0.25048828"/>
-                    <attribute id="V2" type="float" value="0.37451172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Chin_Vexa_None"/>
-                    <attribute id="U1" type="float" value="0.75048828"/>
-                    <attribute id="U2" type="float" value="0.87451172"/>
-                    <attribute id="V1" type="float" value="0.00048828125"/>
-                    <attribute id="V2" type="float" value="0.12451172"/>
-                </node>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Head_Vexa_SlayerPB_L"/>
                     <attribute id="U1" type="float" value="0.50048828"/>
@@ -138,291 +47,305 @@
                     <attribute id="V2" type="float" value="0.12451172"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FA"/>
-                    <attribute id="U1" type="float" value="0.50048828"/>
-                    <attribute id="U2" type="float" value="0.62451172"/>
-                    <attribute id="V1" type="float" value="0.25048828"/>
-                    <attribute id="V2" type="float" value="0.37451172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FB"/>
-                    <attribute id="U1" type="float" value="0.62548828"/>
-                    <attribute id="U2" type="float" value="0.74951172"/>
-                    <attribute id="V1" type="float" value="0.25048828"/>
-                    <attribute id="V2" type="float" value="0.37451172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FC"/>
-                    <attribute id="U1" type="float" value="0.75048828"/>
-                    <attribute id="U2" type="float" value="0.87451172"/>
-                    <attribute id="V1" type="float" value="0.25048828"/>
-                    <attribute id="V2" type="float" value="0.37451172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FD"/>
-                    <attribute id="U1" type="float" value="0.87548828"/>
-                    <attribute id="U2" type="float" value="0.99951172"/>
-                    <attribute id="V1" type="float" value="0.25048828"/>
-                    <attribute id="V2" type="float" value="0.37451172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_FE"/>
-                    <attribute id="U1" type="float" value="0.00048828125"/>
-                    <attribute id="U2" type="float" value="0.12451172"/>
-                    <attribute id="V1" type="float" value="0.37548828"/>
-                    <attribute id="V2" type="float" value="0.49951172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA"/>
-                    <attribute id="U1" type="float" value="0.12548828"/>
-                    <attribute id="U2" type="float" value="0.24951172"/>
-                    <attribute id="V1" type="float" value="0.37548828"/>
-                    <attribute id="V2" type="float" value="0.49951172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MA_S"/>
-                    <attribute id="U1" type="float" value="0.25048828"/>
-                    <attribute id="U2" type="float" value="0.37451172"/>
-                    <attribute id="V1" type="float" value="0.37548828"/>
-                    <attribute id="V2" type="float" value="0.49951172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MC"/>
-                    <attribute id="U1" type="float" value="0.50048828"/>
-                    <attribute id="U2" type="float" value="0.62451172"/>
-                    <attribute id="V1" type="float" value="0.37548828"/>
-                    <attribute id="V2" type="float" value="0.49951172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MD"/>
-                    <attribute id="U1" type="float" value="0.62548828"/>
-                    <attribute id="U2" type="float" value="0.74951172"/>
-                    <attribute id="V1" type="float" value="0.37548828"/>
-                    <attribute id="V2" type="float" value="0.49951172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MD_DMH_L"/>
-                    <attribute id="U1" type="float" value="0.75048828"/>
-                    <attribute id="U2" type="float" value="0.87451172"/>
-                    <attribute id="V1" type="float" value="0.37548828"/>
-                    <attribute id="V2" type="float" value="0.49951172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MD_DMH_R"/>
-                    <attribute id="U1" type="float" value="0.87548828"/>
-                    <attribute id="U2" type="float" value="0.99951172"/>
-                    <attribute id="V1" type="float" value="0.37548828"/>
-                    <attribute id="V2" type="float" value="0.49951172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MD_Slayer"/>
-                    <attribute id="U1" type="float" value="0.00048828125"/>
-                    <attribute id="U2" type="float" value="0.12451172"/>
-                    <attribute id="V1" type="float" value="0.50048828"/>
-                    <attribute id="V2" type="float" value="0.62451172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MD_SlayerB_L"/>
-                    <attribute id="U1" type="float" value="0.12548828"/>
-                    <attribute id="U2" type="float" value="0.24951172"/>
-                    <attribute id="V1" type="float" value="0.50048828"/>
-                    <attribute id="V2" type="float" value="0.62451172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MD_SlayerB_R"/>
-                    <attribute id="U1" type="float" value="0.25048828"/>
-                    <attribute id="U2" type="float" value="0.37451172"/>
-                    <attribute id="V1" type="float" value="0.50048828"/>
-                    <attribute id="V2" type="float" value="0.62451172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MD_SlayerH"/>
-                    <attribute id="U1" type="float" value="0.37548828"/>
-                    <attribute id="U2" type="float" value="0.49951172"/>
-                    <attribute id="V1" type="float" value="0.50048828"/>
-                    <attribute id="V2" type="float" value="0.62451172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MD_SlayerHB_L"/>
-                    <attribute id="U1" type="float" value="0.50048828"/>
-                    <attribute id="U2" type="float" value="0.62451172"/>
-                    <attribute id="V1" type="float" value="0.50048828"/>
-                    <attribute id="V2" type="float" value="0.62451172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MD_SlayerHB_R"/>
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Chin_0_NoChin"/>
                     <attribute id="U1" type="float" value="0.62548828"/>
                     <attribute id="U2" type="float" value="0.74951172"/>
                     <attribute id="V1" type="float" value="0.50048828"/>
                     <attribute id="V2" type="float" value="0.62451172"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_ME"/>
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FA_CliffJut"/>
                     <attribute id="U1" type="float" value="0.75048828"/>
                     <attribute id="U2" type="float" value="0.87451172"/>
                     <attribute id="V1" type="float" value="0.50048828"/>
                     <attribute id="V2" type="float" value="0.62451172"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MF"/>
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FB_JewelPoint"/>
                     <attribute id="U1" type="float" value="0.87548828"/>
                     <attribute id="U2" type="float" value="0.99951172"/>
                     <attribute id="V1" type="float" value="0.50048828"/>
                     <attribute id="V2" type="float" value="0.62451172"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Jaw_Vexa_MG"/>
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FC_Stalactite"/>
                     <attribute id="U1" type="float" value="0.00048828125"/>
                     <attribute id="U2" type="float" value="0.12451172"/>
                     <attribute id="V1" type="float" value="0.62548828"/>
                     <attribute id="V2" type="float" value="0.74951172"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FA"/>
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FD_Pinnacle"/>
                     <attribute id="U1" type="float" value="0.12548828"/>
                     <attribute id="U2" type="float" value="0.24951172"/>
                     <attribute id="V1" type="float" value="0.62548828"/>
                     <attribute id="V2" type="float" value="0.74951172"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FB"/>
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Chin_FE_Apogee"/>
                     <attribute id="U1" type="float" value="0.25048828"/>
                     <attribute id="U2" type="float" value="0.37451172"/>
                     <attribute id="V1" type="float" value="0.62548828"/>
                     <attribute id="V2" type="float" value="0.74951172"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FC"/>
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel"/>
                     <attribute id="U1" type="float" value="0.37548828"/>
                     <attribute id="U2" type="float" value="0.49951172"/>
                     <attribute id="V1" type="float" value="0.62548828"/>
                     <attribute id="V2" type="float" value="0.74951172"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FD"/>
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MC_Calcified"/>
                     <attribute id="U1" type="float" value="0.50048828"/>
                     <attribute id="U2" type="float" value="0.62451172"/>
                     <attribute id="V1" type="float" value="0.62548828"/>
                     <attribute id="V2" type="float" value="0.74951172"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_FE"/>
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MD_Chintacle"/>
                     <attribute id="U1" type="float" value="0.62548828"/>
                     <attribute id="U2" type="float" value="0.74951172"/>
                     <attribute id="V1" type="float" value="0.62548828"/>
                     <attribute id="V2" type="float" value="0.74951172"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MA"/>
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Chin_ME_WaltzingFangs"/>
                     <attribute id="U1" type="float" value="0.75048828"/>
                     <attribute id="U2" type="float" value="0.87451172"/>
                     <attribute id="V1" type="float" value="0.62548828"/>
                     <attribute id="V2" type="float" value="0.74951172"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MA_DMH_L"/>
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MF_HatchetSpike"/>
                     <attribute id="U1" type="float" value="0.87548828"/>
                     <attribute id="U2" type="float" value="0.99951172"/>
                     <attribute id="V1" type="float" value="0.62548828"/>
                     <attribute id="V2" type="float" value="0.74951172"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MA_DMH_R"/>
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MG_Stentorian"/>
                     <attribute id="U1" type="float" value="0.00048828125"/>
                     <attribute id="U2" type="float" value="0.12451172"/>
                     <attribute id="V1" type="float" value="0.75048828"/>
                     <attribute id="V2" type="float" value="0.87451172"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MB"/>
-                    <attribute id="U1" type="float" value="0.12548828"/>
-                    <attribute id="U2" type="float" value="0.24951172"/>
-                    <attribute id="V1" type="float" value="0.75048828"/>
-                    <attribute id="V2" type="float" value="0.87451172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MC"/>
-                    <attribute id="U1" type="float" value="0.25048828"/>
-                    <attribute id="U2" type="float" value="0.37451172"/>
-                    <attribute id="V1" type="float" value="0.75048828"/>
-                    <attribute id="V2" type="float" value="0.87451172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MD"/>
-                    <attribute id="U1" type="float" value="0.37548828"/>
-                    <attribute id="U2" type="float" value="0.49951172"/>
-                    <attribute id="V1" type="float" value="0.75048828"/>
-                    <attribute id="V2" type="float" value="0.87451172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MD_SlayerB_L"/>
-                    <attribute id="U1" type="float" value="0.50048828"/>
-                    <attribute id="U2" type="float" value="0.62451172"/>
-                    <attribute id="V1" type="float" value="0.75048828"/>
-                    <attribute id="V2" type="float" value="0.87451172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MD_SlayerB_R"/>
-                    <attribute id="U1" type="float" value="0.62548828"/>
-                    <attribute id="U2" type="float" value="0.74951172"/>
-                    <attribute id="V1" type="float" value="0.75048828"/>
-                    <attribute id="V2" type="float" value="0.87451172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MD_SlayerC"/>
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_0_NoCrest"/>
                     <attribute id="U1" type="float" value="0.75048828"/>
                     <attribute id="U2" type="float" value="0.87451172"/>
-                    <attribute id="V1" type="float" value="0.75048828"/>
-                    <attribute id="V2" type="float" value="0.87451172"/>
+                    <attribute id="V1" type="float" value="0.00048828125"/>
+                    <attribute id="V2" type="float" value="0.12451172"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MD_SlayerHB_L"/>
-                    <attribute id="U1" type="float" value="0.87548828"/>
-                    <attribute id="U2" type="float" value="0.99951172"/>
-                    <attribute id="V1" type="float" value="0.75048828"/>
-                    <attribute id="V2" type="float" value="0.87451172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MD_SlayerHB_R"/>
-                    <attribute id="U1" type="float" value="0.00048828125"/>
-                    <attribute id="U2" type="float" value="0.12451172"/>
-                    <attribute id="V1" type="float" value="0.87548828"/>
-                    <attribute id="V2" type="float" value="0.99951172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MD_SlayerHC"/>
-                    <attribute id="U1" type="float" value="0.12548828"/>
-                    <attribute id="U2" type="float" value="0.24951172"/>
-                    <attribute id="V1" type="float" value="0.87548828"/>
-                    <attribute id="V2" type="float" value="0.99951172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_ME"/>
-                    <attribute id="U1" type="float" value="0.25048828"/>
-                    <attribute id="U2" type="float" value="0.37451172"/>
-                    <attribute id="V1" type="float" value="0.87548828"/>
-                    <attribute id="V2" type="float" value="0.99951172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MF"/>
-                    <attribute id="U1" type="float" value="0.37548828"/>
-                    <attribute id="U2" type="float" value="0.49951172"/>
-                    <attribute id="V1" type="float" value="0.87548828"/>
-                    <attribute id="V2" type="float" value="0.99951172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_MG"/>
-                    <attribute id="U1" type="float" value="0.50048828"/>
-                    <attribute id="U2" type="float" value="0.62451172"/>
-                    <attribute id="V1" type="float" value="0.87548828"/>
-                    <attribute id="V2" type="float" value="0.99951172"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="CCIcon_DGB_EL_A_Top_Vexa_None"/>
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FA_ReptileFrills"/>
                     <attribute id="U1" type="float" value="0.87548828"/>
                     <attribute id="U2" type="float" value="0.99951172"/>
                     <attribute id="V1" type="float" value="0.00048828125"/>
                     <attribute id="V2" type="float" value="0.12451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FB_PredaciousCrest"/>
+                    <attribute id="U1" type="float" value="0.00048828125"/>
+                    <attribute id="U2" type="float" value="0.12451172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FC_SpinousCrown"/>
+                    <attribute id="U1" type="float" value="0.12548828"/>
+                    <attribute id="U2" type="float" value="0.24951172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FD_HalberdBlades"/>
+                    <attribute id="U1" type="float" value="0.25048828"/>
+                    <attribute id="U2" type="float" value="0.37451172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_FE_ProudPhalanx"/>
+                    <attribute id="U1" type="float" value="0.37548828"/>
+                    <attribute id="U2" type="float" value="0.49951172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MA_Arcuate"/>
+                    <attribute id="U1" type="float" value="0.50048828"/>
+                    <attribute id="U2" type="float" value="0.62451172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MB_ClosingClaws"/>
+                    <attribute id="U1" type="float" value="0.62548828"/>
+                    <attribute id="U2" type="float" value="0.74951172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MC_GobletHandlers"/>
+                    <attribute id="U1" type="float" value="0.75048828"/>
+                    <attribute id="U2" type="float" value="0.87451172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MD_QuilledWedge"/>
+                    <attribute id="U1" type="float" value="0.87548828"/>
+                    <attribute id="U2" type="float" value="0.99951172"/>
+                    <attribute id="V1" type="float" value="0.12548828"/>
+                    <attribute id="V2" type="float" value="0.24951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_ME_MalformedApex"/>
+                    <attribute id="U1" type="float" value="0.00048828125"/>
+                    <attribute id="U2" type="float" value="0.12451172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MF_Malefic"/>
+                    <attribute id="U1" type="float" value="0.12548828"/>
+                    <attribute id="U2" type="float" value="0.24951172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_CrestTop_MG_Ophidian"/>
+                    <attribute id="U1" type="float" value="0.25048828"/>
+                    <attribute id="U2" type="float" value="0.37451172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_0_NoJaw"/>
+                    <attribute id="U1" type="float" value="0.37548828"/>
+                    <attribute id="U2" type="float" value="0.49951172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FA_TauntingStylus"/>
+                    <attribute id="U1" type="float" value="0.50048828"/>
+                    <attribute id="U2" type="float" value="0.62451172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FB_CoralRidges"/>
+                    <attribute id="U1" type="float" value="0.62548828"/>
+                    <attribute id="U2" type="float" value="0.74951172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FC_PorcupineChops"/>
+                    <attribute id="U1" type="float" value="0.75048828"/>
+                    <attribute id="U2" type="float" value="0.87451172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FD_JawsOfRuin"/>
+                    <attribute id="U1" type="float" value="0.87548828"/>
+                    <attribute id="U2" type="float" value="0.99951172"/>
+                    <attribute id="V1" type="float" value="0.25048828"/>
+                    <attribute id="V2" type="float" value="0.37451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FD_JawsOfRuin_Short"/>
+                    <attribute id="U1" type="float" value="0.00048828125"/>
+                    <attribute id="U2" type="float" value="0.12451172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_FE_SombreCalamity"/>
+                    <attribute id="U1" type="float" value="0.12548828"/>
+                    <attribute id="U2" type="float" value="0.24951172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown"/>
+                    <attribute id="U1" type="float" value="0.25048828"/>
+                    <attribute id="U2" type="float" value="0.37451172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MA_InverseCrown_Short"/>
+                    <attribute id="U1" type="float" value="0.37548828"/>
+                    <attribute id="U2" type="float" value="0.49951172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MC_ConciseStrenght"/>
+                    <attribute id="U1" type="float" value="0.50048828"/>
+                    <attribute id="U2" type="float" value="0.62451172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MC_ConciseStrenght_Short"/>
+                    <attribute id="U1" type="float" value="0.62548828"/>
+                    <attribute id="U2" type="float" value="0.74951172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MD_NestONeedles"/>
+                    <attribute id="U1" type="float" value="0.75048828"/>
+                    <attribute id="U2" type="float" value="0.87451172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MD_NestONeedles_Short"/>
+                    <attribute id="U1" type="float" value="0.87548828"/>
+                    <attribute id="U2" type="float" value="0.99951172"/>
+                    <attribute id="V1" type="float" value="0.37548828"/>
+                    <attribute id="V2" type="float" value="0.49951172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_ME_Dragonglass"/>
+                    <attribute id="U1" type="float" value="0.00048828125"/>
+                    <attribute id="U2" type="float" value="0.12451172"/>
+                    <attribute id="V1" type="float" value="0.50048828"/>
+                    <attribute id="V2" type="float" value="0.62451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_ME_Dragonglass_Short"/>
+                    <attribute id="U1" type="float" value="0.12548828"/>
+                    <attribute id="U2" type="float" value="0.24951172"/>
+                    <attribute id="V1" type="float" value="0.50048828"/>
+                    <attribute id="V2" type="float" value="0.62451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MF_RoyalPlateau"/>
+                    <attribute id="U1" type="float" value="0.25048828"/>
+                    <attribute id="U2" type="float" value="0.37451172"/>
+                    <attribute id="V1" type="float" value="0.50048828"/>
+                    <attribute id="V2" type="float" value="0.62451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MF_RoyalPlateau_Short"/>
+                    <attribute id="U1" type="float" value="0.37548828"/>
+                    <attribute id="U2" type="float" value="0.49951172"/>
+                    <attribute id="V1" type="float" value="0.50048828"/>
+                    <attribute id="V2" type="float" value="0.62451172"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_MF_Head_Vexa_Jaw_MG_SharkFins"/>
+                    <attribute id="U1" type="float" value="0.50048828"/>
+                    <attribute id="U2" type="float" value="0.62451172"/>
+                    <attribute id="V1" type="float" value="0.50048828"/>
+                    <attribute id="V2" type="float" value="0.62451172"/>
                 </node>
             </children>
         </node>
