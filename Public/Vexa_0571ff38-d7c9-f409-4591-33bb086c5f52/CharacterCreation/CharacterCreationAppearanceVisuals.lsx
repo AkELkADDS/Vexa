@@ -1323,7 +1323,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h499bc875g8869g3061g61a5g164de8a15e02" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="9a55593d-4851-4600-bf65-57946fc635b1"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MC_Calcified"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="38a78e79-edf3-4bd0-807b-90cc465c9ee9"/>
@@ -1334,7 +1334,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h36f7719agf647g3950g8fb7gfb19a96cec6d" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="ac22e1f6-585d-4e63-ac9e-1220a20da086"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MC_Calcified"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="adb07cee-b290-4bdf-b470-4313dff37324"/>
@@ -1345,7 +1345,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h3d54d70fge6bbgc39agb7d3gfb8e996ba5a0" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="914e4cb9-45fc-4d7a-9701-e17038300771"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MC_Calcified"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="a072c158-40a8-40eb-b509-d31104195046"/>
@@ -1356,7 +1356,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h98ddda66g3564g29cdg6041g1295557076ed" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="343e0f6c-a345-4208-a193-a1649aea303f"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MC_Calcified"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="dad93048-3f2e-4bab-834f-5e02583723ae"/>
@@ -1367,7 +1367,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h5fef8f42g506fg2f46g16acgc036b2252edd" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="dfca33b3-6f9b-4dd4-bae3-aee71e25c576"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MC_Calcified"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="7f498e18-c410-4730-af5f-b1615c4d6a57"/>
@@ -1378,7 +1378,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hbe6c82bag171fg3a40g7d74gce2e4aed3423" version="1"/>
                     <attribute id="HeadAppearanceUUID" type="guid" value="1e08e57b-045a-4d2c-9021-19fa3a1997a0"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_MF_Head_Vexa_Chin_MC_Calcified"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="DragonbornChin"/>
                     <attribute id="UUID" type="guid" value="a28e3bcf-d199-4bcd-a5b0-0bdc6676d38a"/>

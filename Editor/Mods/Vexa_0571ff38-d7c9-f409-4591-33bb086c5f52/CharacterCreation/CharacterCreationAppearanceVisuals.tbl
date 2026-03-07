@@ -1710,7 +1710,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="ef0126b5-0b77-4f8d-8a45-e1b2f27af2bd" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h499bc875g8869g3061g61a5g164de8a15e02" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MC_Calcified" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FVexa_Chin_Vexa_MC" />
       </fields>
     </stat_object>
@@ -1725,7 +1725,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="ef0126b5-0b77-4f8d-8a45-e1b2f27af2bd" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h36f7719agf647g3950g8fb7gfb19a96cec6d" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MC_Calcified" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1739,7 +1739,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="ef0126b5-0b77-4f8d-8a45-e1b2f27af2bd" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3d54d70fge6bbgc39agb7d3gfb8e996ba5a0" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MC_Calcified" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1753,7 +1753,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="ef0126b5-0b77-4f8d-8a45-e1b2f27af2bd" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h98ddda66g3564g29cdg6041g1295557076ed" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MC_Calcified" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1767,7 +1767,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="ef0126b5-0b77-4f8d-8a45-e1b2f27af2bd" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5fef8f42g506fg2f46g16acgc036b2252edd" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MC_Calcified" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1781,7 +1781,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="ef0126b5-0b77-4f8d-8a45-e1b2f27af2bd" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbe6c82bag171fg3a40g7d74gce2e4aed3423" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MA_DaggerPommel" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Vexa_Chin_MC_Calcified" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
