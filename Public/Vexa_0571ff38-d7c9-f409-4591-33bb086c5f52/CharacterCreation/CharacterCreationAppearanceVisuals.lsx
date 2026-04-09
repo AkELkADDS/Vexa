@@ -7,7 +7,7 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h8b925688g945cg1374g41c1gbe276f0b00d3" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8b925688g945cg1374g41c1gbe276f0b00d3" version="2"/>
                     <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Head_Vexa_SlayerSC"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Head"/>
@@ -37,7 +37,7 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h77d802a2gcc2dg8d92g2d63g4491f19f4919" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h77d802a2gcc2dg8d92g2d63g4491f19f4919" version="2"/>
                     <attribute id="IconIdOverride" type="FixedString" value="CCIcon_DGB_EL_A_Head_Vexa_SlayerPC"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Head"/>

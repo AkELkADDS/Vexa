@@ -9,7 +9,7 @@
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8b925688g945cg1374g41c1gbe276f0b00d3" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8b925688g945cg1374g41c1gbe276f0b00d3" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_F_Head_Vexa_SC" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="0b8b968a-125f-4292-a935-958b1d2aa791" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Head_Vexa_SlayerSC" />
@@ -51,7 +51,7 @@
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h77d802a2gcc2dg8d92g2d63g4491f19f4919" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h77d802a2gcc2dg8d92g2d63g4491f19f4919" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_F_Head_Vexa_PC" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="7193a54a-b7a3-4ad1-b806-bc5541a6c48a" />
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Head_Vexa_SlayerPC" />
