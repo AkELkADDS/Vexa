@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52 
-   Sat 04/11/2026  5:56:40.09 
+   Tue 04/14/2026 11:09:27.86 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -39,6 +39,18 @@ Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Vexa_
  
 Files found: 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_EL_FVexa_HeadSK_Vexa_B.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_FA_Base.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_FB_Base.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_FC_Base.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_FD_Base.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_FE_Base.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_MA_Base.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_MB_Base.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_MC_Base.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_MD_Base.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_ME_Base.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_MF_Base.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_MG_Base.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\Textures\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_S_PB_L_CTLO.DDS 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\Textures\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_S_PB_L_DB_DMSK.DDS 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\Textures\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_S_PB_L_DMSK.DDS 
@@ -81,6 +93,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\CharacterCreationPresets\CharacterCreationMaterialOverrides.lsx 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\0032a2c3-165b-4d42-a714-72d6550bdbbf.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\008f55b3-5b1d-b0e5-f9db-e1da6751bbe4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\02ab4e30-f2b9-d94d-0c11-b520c56ef3e9.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\040266f7-7e3d-4e0c-1751-a2608562dcbc.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\09243e2d-7b0c-47d1-a1d3-38961c2a2c5e.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\0b013f2b-bc85-b9a8-13e1-87fcb6606066.lsf 
@@ -96,6 +109,8 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\2b183e39-3c6e-4360-b399-f40d4df0f31d.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\2c5e2135-03de-6172-b5fa-e3d41e05b237.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\2c9a9675-453f-32d8-1989-f428bb105815.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\2d8ee3e4-0436-06e9-7d31-c4df9edc8611.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\2feaf08c-63f7-3197-480f-b64b84094515.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\338c85c6-0e35-4ed5-9297-225d29b40d9f.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\33e10036-be00-40c6-dc08-0eb7e90602bb.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\33f84f6f-e106-470c-92cf-8e1ddfcda0a2.lsf 
@@ -104,6 +119,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\41597912-5914-d641-475f-61db86e56192.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\418df334-dc80-03a4-7c71-a946e6887a7e.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\4192f6d9-08d6-4777-8f17-40c5f107794f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\43068531-fde9-1451-92ae-1c314e73c815.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\43eb24c4-e517-bf6e-213c-0fef5aae30f7.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\4481609c-8af7-4dce-8210-580e2a29f90a.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\4916f74c-67dc-4a4d-8957-0c86f2863e4b.lsf 
@@ -114,10 +130,13 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\54784764-77ad-8b46-903a-a6f978a19edf.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\55a968ec-998f-360d-8324-d4dc545c76a3.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\561ee123-a127-109c-4537-1561a408a5b8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\570b1016-95ce-ca99-8651-17ead15dd408.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\572e7fc1-84ab-2ac9-5a36-8f97147deb09.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\5d5f5497-fe20-ca74-a1ed-6f173a0c65a2.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\5f086678-1cea-22ab-1853-40e1f25026c1.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\605237ee-53c9-2d2e-12ee-2ce552a86aeb.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\62e5a6d9-df51-49c9-babd-9ff531cb1b04.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\67b5793b-dbe1-5473-df34-3a8007527bcc.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\68197f1b-8dcf-4fd4-9f20-ff8a57b5f595.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\68540c23-c8ec-4986-b7a8-88268033db8c.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\68defe66-dc39-4da8-83f7-a4731dfb2cc9.lsf 
@@ -130,8 +149,10 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\71993628-f2db-a4fb-fd1d-009d787f073f.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\721fd6bc-8da9-4a60-bfe7-8f05f60e9fce.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\762fd242-e009-3e38-e048-f1b21b9dce2a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\765f69be-782f-3648-c1e7-d172508c2d20.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\76f96478-e265-474b-a908-4b4946318bfd.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\777f5e88-5e77-4520-847c-1810c7d3cdd6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\77ff8447-c7df-7ca7-b31d-3a108f68ce5c.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\7a244905-c368-44eb-836e-a9ab3e7127dc.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\7a796de7-0607-b145-b441-a02853f6ecb8.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\7b7fbd4a-5933-9d72-0d19-112531fa870e.lsf 
@@ -158,6 +179,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\aafc862d-65ae-4acc-a22e-a27fef4b5eb0.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\acb371df-4dda-4cb7-9850-f8b080ce4d73.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\b4c7a1a8-860d-455e-8f30-d51da1440a19.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\c261663b-2d39-d933-f420-afa57ac6738f.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\c3548fe2-f617-efe0-4121-9e33e76bb62e.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\c46ef81d-baa4-0611-eaed-a99051ae995d.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\c4940a6d-9622-410b-aa47-4a29b7a12e87.lsf 
@@ -169,6 +191,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\d061d2ec-9d9e-afa5-b500-e49c095511f1.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\d0d2feee-ff53-44c7-a815-263d71469be2.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\d132cd2b-e1d7-0b8c-7c82-a1b1ddda4748.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\d222e758-f6f7-b509-083c-dab879d1457e.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\d630277f-5d34-42e1-be10-de460e32c036.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\d7cb27cc-1e25-85b0-d7e8-637410d264bb.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\d9c5de74-1647-45da-ba44-3f3e9df5e95b.lsf 
@@ -183,6 +206,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\ef0126b5-0b77-4f8d-8a45-e1b2f27af2bd.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\f34a389c-a6e0-441f-af1d-86930dbd8fd3.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\f6093494-0fec-4cf0-9adf-837bbc598166.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\f6a56d9d-43e9-07ce-37e7-ef4bce170030.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\f7ee2de6-a3fe-4290-9723-a604f6024348.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\f89b9923-3026-80e6-2d37-c6e96b4454ce.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\f9fb7e88-7072-4421-bf9d-d4ba73a99918.lsf 
@@ -289,7 +313,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_MF_B.xml 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_MG.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_MG.xml 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52: 251 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52: 275 
  
 [LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52 
  
@@ -346,7 +370,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_MG.GR2 
 Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52: 50 
  
-[LOG] Total files found across all folders: 310 
+[LOG] Total files found across all folders: 334 
  
 SECTION 2: COPY OPERATIONS 
 ------------------------------------------------------------------------ 
@@ -362,7 +386,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 11, 2026 5:56:43 AM
+  Started : Tuesday, April 14, 2026 11:09:31 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\
      Dest : C:\GIT_BG3\MOD_REPOS\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Projects\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\
 
@@ -373,7 +397,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     682	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\meta.lsx100%  
-	    New File  		   5.7 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\thumbnail.png  0%  100%  
+	    New File  		   5.7 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\thumbnail.png 17%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -386,7 +410,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           6080682000 Bytes/sec.
    Speed :           347939.414 MegaBytes/min.
-   Ended : Saturday, April 11, 2026 5:56:43 AM
+   Ended : Tuesday, April 14, 2026 11:09:31 AM
 
  
 [DEBUG] Counting source files 
@@ -412,7 +436,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 11, 2026 5:56:44 AM
+  Started : Tuesday, April 14, 2026 11:09:33 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\
      Dest : C:\GIT_BG3\MOD_REPOS\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Editor\Mods\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\
 
@@ -435,9 +459,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           232949500 Bytes/sec.
-   Speed :           13329.477 MegaBytes/min.
-   Ended : Saturday, April 11, 2026 5:56:44 AM
+   Speed :           465899000 Bytes/sec.
+   Speed :           26658.954 MegaBytes/min.
+   Ended : Tuesday, April 14, 2026 11:09:33 AM
 
  
 [DEBUG] Counting source files 
@@ -463,7 +487,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 11, 2026 5:56:46 AM
+  Started : Tuesday, April 14, 2026 11:09:34 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\
      Dest : C:\GIT_BG3\MOD_REPOS\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Mods\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\
 
@@ -474,7 +498,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		   13316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\meta.lsx100%  
-	    New File  		   5.7 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\mod_publish_logo.png100%  
+	    New File  		   5.7 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\mod_publish_logo.png  0%  100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\GUI\metadata.lsf100%  
 	    New File  		   37326	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Localization\English\english.xml100%  
 
@@ -489,7 +513,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           3065891500 Bytes/sec.
    Speed :           175431.718 MegaBytes/min.
-   Ended : Saturday, April 11, 2026 5:56:46 AM
+   Ended : Tuesday, April 14, 2026 11:09:34 AM
 
  
 [DEBUG] Counting source files 
@@ -515,7 +539,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 11, 2026 5:56:47 AM
+  Started : Tuesday, April 14, 2026 11:09:36 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\
      Dest : C:\GIT_BG3\MOD_REPOS\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\
 
@@ -525,12 +549,13 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
+	    New File  		    5366	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\CharacterCreationPresets\CharacterCreationMaterialOverrides.lsx100%  
 	    New File  		  333505	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
 	    New File  		   12268	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\CharacterCreation\CharacterCreationIconSettings.lsx100%  
-	    New File  		    5366	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\CharacterCreationPresets\CharacterCreationMaterialOverrides.lsx100%  
 	    New File  		   23743	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\GUI\CCIcons_Vexa_2_Atlas.lsx100%  
 	    New File  		    3731	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\0032a2c3-165b-4d42-a714-72d6550bdbbf.lsf100%  
 	    New File  		    1646	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\008f55b3-5b1d-b0e5-f9db-e1da6751bbe4.lsf100%  
+	    New File  		    2434	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\02ab4e30-f2b9-d94d-0c11-b520c56ef3e9.lsf100%  
 	    New File  		    1646	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\040266f7-7e3d-4e0c-1751-a2608562dcbc.lsf100%  
 	    New File  		    2563	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\09243e2d-7b0c-47d1-a1d3-38961c2a2c5e.lsf100%  
 	    New File  		    1637	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\0b013f2b-bc85-b9a8-13e1-87fcb6606066.lsf100%  
@@ -546,6 +571,8 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2563	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\2b183e39-3c6e-4360-b399-f40d4df0f31d.lsf100%  
 	    New File  		   13999	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\2c5e2135-03de-6172-b5fa-e3d41e05b237.lsf100%  
 	    New File  		   13997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\2c9a9675-453f-32d8-1989-f428bb105815.lsf100%  
+	    New File  		    2434	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\2d8ee3e4-0436-06e9-7d31-c4df9edc8611.lsf100%  
+	    New File  		    2434	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\2feaf08c-63f7-3197-480f-b64b84094515.lsf100%  
 	    New File  		    2571	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\338c85c6-0e35-4ed5-9297-225d29b40d9f.lsf100%  
 	    New File  		    1655	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\33e10036-be00-40c6-dc08-0eb7e90602bb.lsf100%  
 	    New File  		    2563	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\33f84f6f-e106-470c-92cf-8e1ddfcda0a2.lsf100%  
@@ -554,6 +581,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2830	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\41597912-5914-d641-475f-61db86e56192.lsf100%  
 	    New File  		   13999	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\418df334-dc80-03a4-7c71-a946e6887a7e.lsf100%  
 	    New File  		    2563	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\4192f6d9-08d6-4777-8f17-40c5f107794f.lsf100%  
+	    New File  		    2434	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\43068531-fde9-1451-92ae-1c314e73c815.lsf100%  
 	    New File  		    1646	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\43eb24c4-e517-bf6e-213c-0fef5aae30f7.lsf100%  
 	    New File  		    2571	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\4481609c-8af7-4dce-8210-580e2a29f90a.lsf100%  
 	    New File  		    2774	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\4916f74c-67dc-4a4d-8957-0c86f2863e4b.lsf100%  
@@ -564,10 +592,13 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2775	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\54784764-77ad-8b46-903a-a6f978a19edf.lsf100%  
 	    New File  		    1640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\55a968ec-998f-360d-8324-d4dc545c76a3.lsf100%  
 	    New File  		    1646	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\561ee123-a127-109c-4537-1561a408a5b8.lsf100%  
+	    New File  		    2434	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\570b1016-95ce-ca99-8651-17ead15dd408.lsf100%  
 	    New File  		   14000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\572e7fc1-84ab-2ac9-5a36-8f97147deb09.lsf100%  
 	    New File  		    1643	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\5d5f5497-fe20-ca74-a1ed-6f173a0c65a2.lsf100%  
+	    New File  		    2434	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\5f086678-1cea-22ab-1853-40e1f25026c1.lsf100%  
 	    New File  		   13997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\605237ee-53c9-2d2e-12ee-2ce552a86aeb.lsf100%  
 	    New File  		    2829	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\62e5a6d9-df51-49c9-babd-9ff531cb1b04.lsf100%  
+	    New File  		    2434	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\67b5793b-dbe1-5473-df34-3a8007527bcc.lsf100%  
 	    New File  		    2631	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\68197f1b-8dcf-4fd4-9f20-ff8a57b5f595.lsf100%  
 	    New File  		    2621	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\68540c23-c8ec-4986-b7a8-88268033db8c.lsf100%  
 	    New File  		    2784	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\68defe66-dc39-4da8-83f7-a4731dfb2cc9.lsf100%  
@@ -580,8 +611,10 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    1646	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\71993628-f2db-a4fb-fd1d-009d787f073f.lsf100%  
 	    New File  		    2620	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\721fd6bc-8da9-4a60-bfe7-8f05f60e9fce.lsf100%  
 	    New File  		    1640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\762fd242-e009-3e38-e048-f1b21b9dce2a.lsf100%  
+	    New File  		    2434	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\765f69be-782f-3648-c1e7-d172508c2d20.lsf100%  
 	    New File  		    2616	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\76f96478-e265-474b-a908-4b4946318bfd.lsf100%  
 	    New File  		    2790	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\777f5e88-5e77-4520-847c-1810c7d3cdd6.lsf100%  
+	    New File  		    2434	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\77ff8447-c7df-7ca7-b31d-3a108f68ce5c.lsf100%  
 	    New File  		    2621	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\7a244905-c368-44eb-836e-a9ab3e7127dc.lsf100%  
 	    New File  		    1640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\7a796de7-0607-b145-b441-a02853f6ecb8.lsf100%  
 	    New File  		    1640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\7b7fbd4a-5933-9d72-0d19-112531fa870e.lsf100%  
@@ -608,6 +641,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2563	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\aafc862d-65ae-4acc-a22e-a27fef4b5eb0.lsf100%  
 	    New File  		    2621	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\acb371df-4dda-4cb7-9850-f8b080ce4d73.lsf100%  
 	    New File  		    2621	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\b4c7a1a8-860d-455e-8f30-d51da1440a19.lsf100%  
+	    New File  		    2434	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\c261663b-2d39-d933-f420-afa57ac6738f.lsf100%  
 	    New File  		    1646	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\c3548fe2-f617-efe0-4121-9e33e76bb62e.lsf100%  
 	    New File  		    1646	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\c46ef81d-baa4-0611-eaed-a99051ae995d.lsf100%  
 	    New File  		    2562	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\c4940a6d-9622-410b-aa47-4a29b7a12e87.lsf100%  
@@ -619,6 +653,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    1577	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\d061d2ec-9d9e-afa5-b500-e49c095511f1.lsf100%  
 	    New File  		    2571	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\d0d2feee-ff53-44c7-a815-263d71469be2.lsf100%  
 	    New File  		    1640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\d132cd2b-e1d7-0b8c-7c82-a1b1ddda4748.lsf100%  
+	    New File  		    2434	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\d222e758-f6f7-b509-083c-dab879d1457e.lsf100%  
 	    New File  		    2621	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\d630277f-5d34-42e1-be10-de460e32c036.lsf100%  
 	    New File  		    1634	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\d7cb27cc-1e25-85b0-d7e8-637410d264bb.lsf100%  
 	    New File  		    3771	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\d9c5de74-1647-45da-ba44-3f3e9df5e95b.lsf100%  
@@ -633,6 +668,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2571	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\ef0126b5-0b77-4f8d-8a45-e1b2f27af2bd.lsf100%  
 	    New File  		    2571	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\f34a389c-a6e0-441f-af1d-86930dbd8fd3.lsf100%  
 	    New File  		    2582	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\f6093494-0fec-4cf0-9adf-837bbc598166.lsf100%  
+	    New File  		    2434	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\f6a56d9d-43e9-07ce-37e7-ef4bce170030.lsf100%  
 	    New File  		    2571	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\f7ee2de6-a3fe-4290-9723-a604f6024348.lsf100%  
 	    New File  		    2806	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\f89b9923-3026-80e6-2d37-c6e96b4454ce.lsf100%  
 	    New File  		    2621	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Content\[PAK]_Vexa\f9fb7e88-7072-4421-bf9d-d4ba73a99918.lsf100%  
@@ -642,6 +678,18 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   46560	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\DGB_No_Crest\Crest\Female\DGB_F_NKD_Head_Vexa_Top_NoCrest.GR2100%  
 	    New File  		     168	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\DGB_No_Crest\Crest\Female\DGB_F_NKD_Head_Vexa_Top_NoCrest.xml100%  
 	    New File  		   48828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_EL_FVexa_HeadSK_Vexa_B.GR2100%  
+	    New File  		   56664	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_FA_Base.GR2100%  
+	    New File  		   56664	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_FB_Base.GR2100%  
+	    New File  		   56664	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_FC_Base.GR2100%  
+	    New File  		   56664	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_FD_Base.GR2100%  
+	    New File  		   56664	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_FE_Base.GR2100%  
+	    New File  		   56664	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_MA_Base.GR2100%  
+	    New File  		   56664	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_MB_Base.GR2100%  
+	    New File  		   56664	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_MC_Base.GR2100%  
+	    New File  		   56664	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_MD_Base.GR2100%  
+	    New File  		   56664	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_ME_Base.GR2100%  
+	    New File  		   56664	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_MF_Base.GR2100%  
+	    New File  		   56664	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\SK\AkELkA_DGB\DGB_F_NKD\DGB_F_HeadSK_EL_Vexa\DGB_F_Head_Vexa_Top_MG_Base.GR2100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\Textures\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_S_PB_L_CTLO.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\Textures\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_S_PB_L_DB_DMSK.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Assets\Textures\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_S_PB_L_DMSK.DDS100%  
@@ -700,6 +748,12 @@ SECTION 2: COPY OPERATIONS
 	    New File  		     203	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Chin\DGB_EL_FVexa_Chin_Vexa_MF.xml100%  
 	    New File  		   70576	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Chin\DGB_EL_FVexa_Chin_Vexa_MG.GR2100%  
 	    New File  		     203	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Chin\DGB_EL_FVexa_Chin_Vexa_MG.xml100%  
+	    New File  		  693452	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SB_L.GR2100%  
+	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SB_L.xml100%  
+	    New File  		  693676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SB_R.GR2100%  
+	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SB_R.xml100%  
+	    New File  		  689860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SC.GR2100%  
+	    New File  		     199	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SC.xml100%  
 	    New File  		  335964	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_FA.GR2100%  
 	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_FA.xml100%  
 	    New File  		  604680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_FB.GR2100%  
@@ -730,12 +784,6 @@ SECTION 2: COPY OPERATIONS
 	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MF.xml100%  
 	    New File  		  336008	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MG.GR2100%  
 	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MG.xml100%  
-	    New File  		  693452	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SB_L.GR2100%  
-	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SB_L.xml100%  
-	    New File  		  693676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SB_R.GR2100%  
-	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SB_R.xml100%  
-	    New File  		  689860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SC.GR2100%  
-	    New File  		     199	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SC.xml100%  
 	    New File  		  144980	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_FA.GR2100%  
 	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_FA.xml100%  
 	    New File  		   99316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_FB.GR2100%  
@@ -781,22 +829,22 @@ SECTION 2: COPY OPERATIONS
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :        30        30         1         0         0         0
-   Files :       251       251         0         0         0         0
-   Bytes :  162.11 m  162.11 m         0         0         0         0
-   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Files :       275       275         0         0         0         0
+   Bytes :  162.78 m  162.78 m         0         0         0         0
+   Times :   0:00:01   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           2881114694 Bytes/sec.
-   Speed :           164858.705 MegaBytes/min.
-   Ended : Saturday, April 11, 2026 5:56:47 AM
+   Speed :           801384708 Bytes/sec.
+   Speed :           45855.600 MegaBytes/min.
+   Ended : Tuesday, April 14, 2026 11:09:37 AM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 251 
-[DEBUG] Successfully copied files: 251 
+[DEBUG] Total files counted: 275 
+[DEBUG] Successfully copied files: 275 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52: 
-      Total files: 251 
-      Copied successfully: 251 
+      Total files: 275 
+      Copied successfully: 275 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -814,7 +862,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, April 11, 2026 5:56:49 AM
+  Started : Tuesday, April 14, 2026 11:09:38 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\
      Dest : C:\GIT_BG3\MOD_REPOS\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\
 
@@ -836,6 +884,21 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   63348	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Chin\DGB_EL_FVexa_Chin_Vexa_ME.GR2100%  
 	    New File  		   63376	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Chin\DGB_EL_FVexa_Chin_Vexa_MF.GR2100%  
 	    New File  		   70576	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Chin\DGB_EL_FVexa_Chin_Vexa_MG.GR2100%  
+	    New File  		  335964	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_FA.GR2100%  
+	    New File  		  604680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_FB.GR2100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_FC.GR2100%  
+	    New File  		  473084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_FD.GR2100%  
+	    New File  		  844148	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_FE.GR2100%  
+	    New File  		  282180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MA.GR2100%  
+	    New File  		  266728	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MB.GR2100%  
+	    New File  		  394248	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MC.GR2100%  
+	    New File  		  854860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MD.GR2100%  
+	    New File  		  860628	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MD_VexaB_L.GR2100%  
+	    New File  		  860624	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MD_VexaB_R.GR2100%  
+	    New File  		  831292	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MD_VexaC.GR2100%  
+	    New File  		  598304	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_ME.GR2100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MF.GR2100%  
+	    New File  		  336008	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MG.GR2100%  
 	    New File  		  693552	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SB_L.GR2100%  
 	    New File  		  693676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SB_R.GR2100%  
 	    New File  		  689860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SC.GR2100%  
@@ -859,21 +922,6 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  175888	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_MF.GR2100%  
 	    New File  		  137924	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_MF_B.GR2100%  
 	    New File  		  202500	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_MG.GR2100%  
-	    New File  		  335964	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_FA.GR2100%  
-	    New File  		  604680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_FB.GR2100%  
-	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_FC.GR2100%  
-	    New File  		  473084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_FD.GR2100%  
-	    New File  		  844148	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_FE.GR2100%  
-	    New File  		  282180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MA.GR2100%  
-	    New File  		  266728	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MB.GR2100%  
-	    New File  		  394248	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MC.GR2100%  
-	    New File  		  854860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MD.GR2100%  
-	    New File  		  860628	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MD_VexaB_L.GR2100%  
-	    New File  		  860624	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MD_VexaB_R.GR2100%  
-	    New File  		  831292	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MD_VexaC.GR2100%  
-	    New File  		  598304	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_ME.GR2100%  
-	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MF.GR2100%  
-	    New File  		  336008	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MG.GR2100%  
 
 ------------------------------------------------------------------------------
 
@@ -884,9 +932,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           1187806571 Bytes/sec.
-   Speed :            67966.837 MegaBytes/min.
-   Ended : Saturday, April 11, 2026 5:56:49 AM
+   Speed :           251958969 Bytes/sec.
+   Speed :           14417.207 MegaBytes/min.
+   Ended : Tuesday, April 14, 2026 11:09:38 AM
 
  
 [DEBUG] Counting source files 
@@ -919,7 +967,7 @@ SECTION 3: FALLBACK COPY ATTEMPTS
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 251 
+[LOG] Files copied by xcopy: 275 
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
@@ -928,8 +976,8 @@ SECTION 4: FINAL SUMMARY
 ------------------------------------------------------------------------ 
  
 [SUMMARY] Total mod folders found: 1 
-[SUMMARY] Total files found: 310 
-[SUMMARY] Total files successfully copied: 620 
+[SUMMARY] Total files found: 334 
+[SUMMARY] Total files successfully copied: 668 
  
 [SUMMARY] All files were copied successfully 
  
