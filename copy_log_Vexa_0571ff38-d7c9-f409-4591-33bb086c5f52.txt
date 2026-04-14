@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52 
-   Tue 04/14/2026 12:13:07.17 
+   Tue 04/14/2026 12:45:07.70 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -386,7 +386,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 14, 2026 12:13:10 PM
+  Started : Tuesday, April 14, 2026 12:45:10 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\
      Dest : C:\GIT_BG3\MOD_REPOS\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Projects\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\
 
@@ -410,7 +410,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           6080682000 Bytes/sec.
    Speed :           347939.414 MegaBytes/min.
-   Ended : Tuesday, April 14, 2026 12:13:10 PM
+   Ended : Tuesday, April 14, 2026 12:45:10 PM
 
  
 [DEBUG] Counting source files 
@@ -436,7 +436,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 14, 2026 12:13:12 PM
+  Started : Tuesday, April 14, 2026 12:45:12 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\
      Dest : C:\GIT_BG3\MOD_REPOS\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Editor\Mods\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\
 
@@ -461,7 +461,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           465899000 Bytes/sec.
    Speed :           26658.954 MegaBytes/min.
-   Ended : Tuesday, April 14, 2026 12:13:12 PM
+   Ended : Tuesday, April 14, 2026 12:45:12 PM
 
  
 [DEBUG] Counting source files 
@@ -487,7 +487,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 14, 2026 12:13:13 PM
+  Started : Tuesday, April 14, 2026 12:45:14 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\
      Dest : C:\GIT_BG3\MOD_REPOS\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Mods\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\
 
@@ -513,7 +513,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           3065891500 Bytes/sec.
    Speed :           175431.718 MegaBytes/min.
-   Ended : Tuesday, April 14, 2026 12:13:13 PM
+   Ended : Tuesday, April 14, 2026 12:45:14 PM
 
  
 [DEBUG] Counting source files 
@@ -539,7 +539,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 14, 2026 12:13:15 PM
+  Started : Tuesday, April 14, 2026 12:45:16 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\
      Dest : C:\GIT_BG3\MOD_REPOS\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\
 
@@ -748,12 +748,6 @@ SECTION 2: COPY OPERATIONS
 	    New File  		     203	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Chin\DGB_EL_FVexa_Chin_Vexa_MF.xml100%  
 	    New File  		   70576	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Chin\DGB_EL_FVexa_Chin_Vexa_MG.GR2100%  
 	    New File  		     203	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Chin\DGB_EL_FVexa_Chin_Vexa_MG.xml100%  
-	    New File  		  693452	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SB_L.GR2100%  
-	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SB_L.xml100%  
-	    New File  		  693676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SB_R.GR2100%  
-	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SB_R.xml100%  
-	    New File  		  689860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SC.GR2100%  
-	    New File  		     199	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SC.xml100%  
 	    New File  		  335964	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_FA.GR2100%  
 	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_FA.xml100%  
 	    New File  		  604680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_FB.GR2100%  
@@ -784,6 +778,12 @@ SECTION 2: COPY OPERATIONS
 	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MF.xml100%  
 	    New File  		  336008	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MG.GR2100%  
 	    New File  		     206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\CrestTop\DGB_EL_FVexa_Top_Vexa_MG.xml100%  
+	    New File  		  693452	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SB_L.GR2100%  
+	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SB_L.xml100%  
+	    New File  		  693676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SB_R.GR2100%  
+	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SB_R.xml100%  
+	    New File  		  689860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SC.GR2100%  
+	    New File  		     199	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Head\DGB_EL_F_Head_Vexa_SC.xml100%  
 	    New File  		  144980	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_FA.GR2100%  
 	    New File  		     201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_FA.xml100%  
 	    New File  		   99316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Vexa\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Vexa\Jaw\DGB_EL_FVexa_Jaw_Vexa_FB.GR2100%  
@@ -834,9 +834,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           2510219750 Bytes/sec.
-   Speed :           143635.926 MegaBytes/min.
-   Ended : Tuesday, April 14, 2026 12:13:15 PM
+   Speed :           2586287015 Bytes/sec.
+   Speed :           147988.530 MegaBytes/min.
+   Ended : Tuesday, April 14, 2026 12:45:16 PM
 
  
 [DEBUG] Counting source files 
@@ -862,7 +862,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 14, 2026 12:13:17 PM
+  Started : Tuesday, April 14, 2026 12:45:18 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\
      Dest : C:\GIT_BG3\MOD_REPOS\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\Generated\Public\Vexa_0571ff38-d7c9-f409-4591-33bb086c5f52\
 
@@ -934,7 +934,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           1187806571 Bytes/sec.
    Speed :            67966.837 MegaBytes/min.
-   Ended : Tuesday, April 14, 2026 12:13:17 PM
+   Ended : Tuesday, April 14, 2026 12:45:18 PM
 
  
 [DEBUG] Counting source files 
